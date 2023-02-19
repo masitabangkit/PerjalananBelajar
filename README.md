@@ -8,6 +8,6 @@ Dari 16 Februari 2023 sudah mulai belajar di Bangkit
 - Matrikulasi logika
 - Matrikulasi Github (sampe tgl 19 feb ini)
 
---
 19 Februari
+belajar github
 - Rencana menyelesaikan matrikulasi Github
